@@ -1,3 +1,6 @@
 ## Bin folder
 bin/
 
+## Eclipse
+.cproject
+.project
